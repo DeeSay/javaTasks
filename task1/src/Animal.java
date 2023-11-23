@@ -1,5 +1,5 @@
 public class Animal {
-    private static int animalCunt = 0;
+    private static int animalCount = 0;
     private String name;
 
     public Animal(String name){
